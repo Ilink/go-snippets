@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+fmt.Printf("%v\n", ${1:val})
+]]></content>
+	<tabTrigger>printf</tabTrigger>
+	<scope>source.go</scope>
+	<description>Fmt.Printf</description>
+</snippet>
